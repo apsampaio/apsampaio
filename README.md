@@ -6,14 +6,21 @@ A freelance software developer for web and embedded systems.
 - 🌱 I’m currently learning more about Typescript
 - 👯 I’m looking to collaborate on meaningful projects
 
-A currently work with:
+I'm currently focused on:
 
-💛 JavaScript
-💙 TypeScript
-💚 Node.JS
-⚛ React
-⚛ React Native
-© Cordova
+- 💛 JavaScript
+- 💙 TypeScript
+- 💚 Node.JS
+- 💜 React
+- 💜 React Native
+- 🖤 Electron.js
+
+But i can also work with: 
+
+- 🐍 Python
+- 📲 Cordova
+- ♾ Arduino IDE
+- 👨‍💻 MPLAB X IDE
 
 
 
