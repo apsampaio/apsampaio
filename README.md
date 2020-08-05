@@ -4,29 +4,26 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/andr%C3%A9-sampaio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rebeccamanzi@gmail.com)](mailto:andre03.sampaio@gmail.com)
 
-A freelance software developer for web and embedded systems.
+A software developer for web, mobile and embedded systems, looking for new opportunities.
 
-- 🔭 I’m currently working on personal projects 
-- 🌱 I’m currently learning more about Typescript
-- 👯 I’m looking to collaborate on meaningful projects
+## My Stats
 
-I'm currently focused on:
+![Github stats](https://github-readme-stats.vercel.app/api?username=apsampaio&show_icons=true&hide_border=true)
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username=apsampaio&hide=html&layout=compac -->
 
-- 💛 JavaScript
-- 💙 TypeScript
-- 💚 Node.JS
-- 💜 React
-- 💜 React Native
-- 🖤 Electron.js
+🚀 I’m currently working on personal projects
+📚 I’m currently learning more about Typescript
+🤝 I’m looking to collaborate on meaningful projects
 
-But i can also work with: 
+**Languages and Tools**
 
-- 🐍 Python
-- 📲 Cordova
-- ♾ Arduino IDE
-- 👨‍💻 MPLAB X IDE
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-Plans for the future: 
-
-- 🐱‍🐉 Deno
-- 🚀 Vue.js 
