@@ -6,14 +6,18 @@
 
 A software developer for web, mobile and embedded systems, looking for new opportunities.
 
+- 🚀 I’m currently working on personal projects
+- 📚 I’m currently learning more about Typescript
+- 🤝 I’m looking to collaborate on meaningful projects
+
 ## My Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=apsampaio&show_icons=true&hide_border=true)
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=apsampaio&hide=html&layout=compac -->
 
-- 🚀 I’m currently working on personal projects
-- 📚 I’m currently learning more about Typescript
-- 🤝 I’m looking to collaborate on meaningful projects
+## Language Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apsampaio)](https://github.com/apsampaio/github-readme-stats)
 
 **Languages and Tools**
 
