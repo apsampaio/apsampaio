@@ -11,6 +11,8 @@ A software developer for web, mobile and embedded systems, looking for new oppor
 - 🤝 I’m looking to collaborate on meaningful projects
 
 ## My Stats
+[![Visits Badge](https://badges.pufler.dev/visits/apsampaio/apsampaio?style=for-the-badge)](https://github.com/apsampaio/apsampaio)
+![Repos Badge](https://badges.pufler.dev/repos/apsampaio?style=for-the-badge)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=apsampaio&show_icons=true&hide_border=true)
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=apsampaio&hide=html&layout=compac -->
