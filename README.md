@@ -1,7 +1,7 @@
 ### Hi there, I'm Andre. 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/apsampaio)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-sampaio/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-sampaio/)](https://www.linkedin.com/in/andr%C3%A9-sampaio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andre03.sampaio@gmail.com)](mailto:andre03.sampaio@gmail.com)
 [![Spotify Badge](https://img.shields.io/badge/spotify-code--fi-fi?logo=spotify&style=flat-square&link=https://open.spotify.com/playlist/2o4LG56C9HYgKZM0eVrRxQ?si=qWZgLV4YSqWt0vq49OXC2g)](https://open.spotify.com/playlist/2o4LG56C9HYgKZM0eVrRxQ?si=GF4R6YlSRdaKth13BM70Rw)
 
