@@ -15,8 +15,8 @@ A software developer for web, mobile and embedded systems, looking for new oppor
 [![Visits Badge](https://badges.pufler.dev/visits/apsampaio/apsampaio?style=for-the-badge)](https://github.com/apsampaio/apsampaio)
 ![Repos Badge](https://badges.pufler.dev/repos/apsampaio?style=for-the-badge)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=apsampaio&show_icons=true&hide_border=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apsampaio&layout=compact&theme=radical)](https://github.com/apsampaio/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=apsampaio&show_icons=true&theme=react)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apsampaio&layout=compact&theme=react)](https://github.com/apsampaio/github-readme-stats)
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
