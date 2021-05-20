@@ -45,3 +45,4 @@ A software developer for web, mobile and embedded systems, always open to new op
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0047B3?style=flat-square&logo=bitbucket)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![RaspberryPi](https://img.shields.io/badge/Raspberry--Pi-A22846?style=flat-square&logo=raspberry-pi)
