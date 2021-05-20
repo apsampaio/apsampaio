@@ -28,7 +28,7 @@ A software developer for web, mobile and embedded systems, always open to new op
 ![React Native](https://img.shields.io/badge/React-Native-1572B6?style=flat-square&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-282a36?style=flat-square&logo=expo)
 ![Electron.JS](https://img.shields.io/badge/-Electron.JS-282a36?style=flat-square&logo=electron)
-![Next.JS](https://img.shields.io/badge/-Next.JS-282a36?style=flat-square&logo=next.js)
+![Next.JS](https://img.shields.io/badge/-Next.JS-282a36?style=flat-square&logo=vercel)
 ![SASS](https://img.shields.io/badge/-Sass-B928ED?style=flat-square&logo=sass)
 ![Styled](https://img.shields.io/badge/-Styled--Components-212121?style=flat-square&logo=styled-components)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
