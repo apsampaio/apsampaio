@@ -42,6 +42,7 @@ A software developer for web, mobile and embedded systems, always open to new op
 ![SQLite](https://img.shields.io/badge/-SQLite-044a64?style=flat-square&logo=sqlite)
 ![SocketIO](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket-dot-io&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google--Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia)
 ![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white)
