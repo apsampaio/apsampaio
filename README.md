@@ -30,6 +30,7 @@ A software developer for web, mobile and embedded systems, always open to new op
 ![React.JS](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=32264D)
 ![React Native](https://img.shields.io/badge/React-Native-61DAFB?style=flat-square&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo)
+![Expo](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 ![Electron.JS](https://img.shields.io/badge/-Electron.JS-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Next.JS](https://img.shields.io/badge/-Next.JS-282a36?style=flat-square&logo=Nextdotjs)
 ![SASS](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
