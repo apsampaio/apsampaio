@@ -48,6 +48,7 @@ A software developer for web, mobile and embedded systems, always open to new op
 ![Google Cloud](https://img.shields.io/badge/-Google--Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=32264D)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia)
+![Yarn](https://img.shields.io/badge/-yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![NPM](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Git](https://img.shields.io/badge/-git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
