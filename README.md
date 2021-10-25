@@ -15,7 +15,7 @@ A software developer for web, mobile and embedded systems, always open to new op
 [![Visits Badge](https://badges.pufler.dev/visits/apsampaio/apsampaio?style=for-the-badge)](https://github.com/apsampaio/apsampaio)
 ![Repos Badge](https://badges.pufler.dev/repos/apsampaio?style=for-the-badge)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=apsampaio&show_icons=true&theme=react)
+<!---![Github stats](https://github-readme-stats.vercel.app/api?username=apsampaio&show_icons=true&theme=react)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apsampaio&layout=compact&theme=react)](https://github.com/apsampaio/github-readme-stats)
 
 ## 🧰 Languages, platforms and tools 
