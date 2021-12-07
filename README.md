@@ -43,9 +43,9 @@ A software developer for web, mobile and embedded systems, always open to new op
 <img alt="P5" src="https://img.shields.io/badge/-P5-ED225D?style=flat&logo=p5dotjs&color=222222" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&color=222222" />
 <img alt="C" src="https://img.shields.io/badge/-C Lang-A8B9CC?style=flat&logo=c&color=222222" />
-<img alt="C++" src="https://img.shields.io/badge/-CPP-A8B9CC?style=flat&logo=cplusplus&color=222222" />
-<img alt="C#" src="https://img.shields.io/badge/-CSharp-A8B9CC?style=flat&logo=csharp&color=222222" />
-<img alt="dotnet" src="https://img.shields.io/badge/.NET-A8B9CC?style=flat&logo=dotnet&color=222222" />
+<img alt="C++" src="https://img.shields.io/badge/-CPP-00599C?style=flat&logo=cplusplus&color=222222" />
+<img alt="C#" src="https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&color=222222" />
+<img alt="dotnet" src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&color=222222" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&color=222222" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&color=222222" />
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-044a64?style=flat&logo=sqlite&color=222222" />
