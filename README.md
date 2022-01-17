@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andre03.sampaio@gmail.com)](mailto:andre03.sampaio@gmail.com)
 [![Spotify Badge](https://img.shields.io/badge/spotify-code--fi-fi?logo=spotify&style=flat-square&link=https://open.spotify.com/playlist/2o4LG56C9HYgKZM0eVrRxQ?si=qWZgLV4YSqWt0vq49OXC2g)](https://open.spotify.com/playlist/2o4LG56C9HYgKZM0eVrRxQ?si=GF4R6YlSRdaKth13BM70Rw)
 
-A software developer for web, mobile and embedded systems, always open to new opportunities.
+A software developer for web, mobile and embedded systems. Always open to new opportunities.
 
 <!---![Github stats](https://github-readme-stats.vercel.app/api?username=apsampaio&show_icons=true&theme=react)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apsampaio&layout=compact&theme=react)](https://github.com/apsampaio/github-readme-stats)
