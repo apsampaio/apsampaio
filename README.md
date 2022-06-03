@@ -10,11 +10,11 @@ A software developer for web, mobile and embedded systems. Always open to new op
 <!---![Github stats](https://github-readme-stats.vercel.app/api?username=apsampaio&show_icons=true&theme=react)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apsampaio&layout=compact&theme=react)](https://github.com/apsampaio/github-readme-stats)
 
-## 🧰 Languages, platforms and tools 
+## 🚀 worked with
 
 <p>
-<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&color=222222" />
-<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&color=222222" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&color=222222" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&color=222222" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&color=222222" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&color=222222" />
 <img alt="Node.JS" src="https://img.shields.io/badge/Node.JS-339933?style=flat&logo=nodedotjs&color=222222" />
@@ -34,7 +34,8 @@ A software developer for web, mobile and embedded systems. Always open to new op
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&color=222222" />
 <img alt="P5" src="https://img.shields.io/badge/-P5-ED225D?style=flat&logo=p5dotjs&color=222222" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&color=222222" />
-<img alt="Go" src="https://img.shields.io/badge/-GoLang-00ADD8?style=flat&logo=go&color=222222" />
+<img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&color=222222" />
+<img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&color=222222" />
 <img alt="C" src="https://img.shields.io/badge/-C Lang-A8B9CC?style=flat&logo=c&color=222222" />
 <img alt="C++" src="https://img.shields.io/badge/-CPP-00599C?style=flat&logo=cplusplus&color=222222" />
 <img alt="C#" src="https://img.shields.io/badge/-CSharp-239120?style=flat&logo=csharp&color=222222" />
@@ -47,14 +48,27 @@ A software developer for web, mobile and embedded systems. Always open to new op
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&color=222222" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/-Google--Cloud-4285F4?style=flat&logo=google-cloud&color=222222" />
 <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&color=222222" />
-<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat&logo=insomnia&color=222222" />
+<img alt="Insomnia" src="https://img.shields.io/badge/-Insomnia-4000BF?style=flat&logo=insomnia&color=222222" />
 <img alt="Yarn" src="https://img.shields.io/badge/-yarn-2C8EBB?style=flat&logo=yarn&color=222222" />
-<img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm" />
+<img alt="NPM" src="https://img.shields.io/badge/-npm-CB3837?style=flat&logo=npm&color=222222" />
 <img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=flat&logo=git&color=222222" />
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&color=222222" />
 <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-0047B3?style=flat&logo=bitbucket&color=222222" />
 <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&color=222222" />
-<img alt="RaspberryPi" src="https://img.shields.io/badge/Raspberry--Pi-A22846?style=flat&logo=raspberry-pi&color=222222" />
+<img alt="RaspberryPi" src="https://img.shields.io/badge/Raspberry-A22846?style=flat&logo=raspberry-pi&color=222222" />
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&color=222222" />
 <img alt="Arch" src="https://img.shields.io/badge/%20-Arch-1793D1?style=flat&logo=arch-linux&color=222222" />
+</p>
+
+## 📚 on the way
+
+<p>
+  <img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&color=222222" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&color=222222" />
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&color=222222" />
+  <img alt="PrismaORM" src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&color=222222" />
+  <img alt="Vault" src="https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&color=222222" />
+  <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&color=222222" />
+  <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&color=222222" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&color=222222" />
 </p>
