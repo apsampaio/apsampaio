@@ -1,4 +1,4 @@
-# Hi there, I'm Andre. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there, I'm Andre. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-F58025?style=flat-square&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/13696786/andre-sampaio?tab=profile)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-sampaio/)](https://www.linkedin.com/in/andr%C3%A9-sampaio/)
