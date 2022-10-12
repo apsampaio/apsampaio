@@ -43,6 +43,7 @@ A software developer for web, mobile and embedded systems. Always open to new op
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&color=222222" />
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&color=222222" />
 <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-044a64?style=flat&logo=sqlite&color=222222" />
+<img alt="PrismaORM" src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&color=222222" />
 <img alt="SocketIO" src="https://img.shields.io/badge/-Socket.io-32264D?style=flat&logo=socketdotio&color=222222" />
 <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&color=222222" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&color=222222" />
@@ -66,7 +67,6 @@ A software developer for web, mobile and embedded systems. Always open to new op
   <img alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&color=222222" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&color=222222" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&color=222222" />
-  <img alt="PrismaORM" src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&color=222222" />
   <img alt="Vault" src="https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&color=222222" />
   <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&color=222222" />
   <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&color=222222" />
