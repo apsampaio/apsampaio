@@ -30,6 +30,7 @@ A software developer for web, mobile and embedded systems. Always open to new op
 <img alt="SASS" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&color=222222" />
 <img alt="Styled-Components" src="https://img.shields.io/badge/-Styled--Components-DB7093?style=flat&logo=styled-components&color=222222" />
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&color=222222" />
+<img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&color=222222" />
 <img alt="MUI" src="https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=material-ui&color=222222" />
 <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&color=222222" />
 <img alt="P5" src="https://img.shields.io/badge/-P5-ED225D?style=flat&logo=p5dotjs&color=222222" />
@@ -68,7 +69,6 @@ A software developer for web, mobile and embedded systems. Always open to new op
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&color=222222" />
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&color=222222" />
   <img alt="Vault" src="https://img.shields.io/badge/Vault-000000?style=flat&logo=vault&color=222222" />
-  <img alt="Tailwindcss" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&color=222222" />
   <img alt="Turborepo" src="https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&color=222222" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&color=222222" />
 </p>
