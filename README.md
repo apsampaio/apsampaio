@@ -35,7 +35,7 @@
 </p>
 
 <details>
-  <summary>In case you interested 🧐</summary>
+  <summary>In case you're interested 🧐</summary>
   
 
 #### Applications and Languages
