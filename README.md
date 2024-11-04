@@ -7,9 +7,9 @@
 </p>
 
 <p align="left">
-  🦄 <strong>Willing to work with</strong>:
-  <img alt="Node" src="https://img.shields.io/badge/Node-339933?style=flat&logo=nodedotjs&color=222222" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&color=222222" />
+  🚀 <strong>Willing to work with</strong>:
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack--Compose-FFFFFF?style=flat&logo=jetpackcompose&color=FFFFFF" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/-Swift%20UI-F05138?style=flat&logo=swift&color=222222" />
 </p>
 
 <p align="left">
